@@ -1,2 +1,2 @@
 # Proxy_Switcher
-Script qui utilise les proxy(gratuits) du site 'free-proxy-list.net' pour changer d'adresse IP lors du scrapping.
+Script qui scrape les proxy du site 'free-proxy-list.net' et utilise différentes combinaisons de 'headers'. ( Le but est de créer à chaque fois des informations de navigation différentes )
